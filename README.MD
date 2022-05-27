@@ -1,4 +1,8 @@
 # ATE
 ATE'ye Python öğretiyoruz ama ışık hızında.
 
-Fonksionlar öğretilecek, import
+# Öğrenilecek
+- Fonksiyonlar
+- gitin commiti
+- import 
+- classlar
